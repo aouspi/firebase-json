@@ -1,7 +1,7 @@
 # firebase-json
-{
-  "farmer": {
-    "shahada": {
+{  
+  "farmer": {  
+    "shahada": {  
       "-MxdPPJby6leLEhMZEzI": {
         "city": "shahada",
         "name": "shubham",
